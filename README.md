@@ -12,9 +12,6 @@
 
 #### Documentation
 
-![JSDocs]()
-![Swagger]()
-
 ### Modules
 
 #### `model.js`
